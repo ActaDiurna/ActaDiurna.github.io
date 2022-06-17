@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This blog supports the twitter project "Acta Diurna - Covering the Flavian War". The first entry explains the rationale, if you want to call it that way, behind the project, further occasional blog entries will cover interesting bits and pieces on the history of the fascinating year AD 69, and specifically the tacitean account if it.
+My name is Jorit Wintjes, and I currently teach at the department for ancient history, Julius-Maximilians-Universität Würzburg. Over the years I have acquired a certain notoriety among my students for rambling on endlessly about the greatness of that greatest of Roman historians, Tacitus. The internet seems a good place to continue this!
