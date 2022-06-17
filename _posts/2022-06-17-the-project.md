@@ -1,4 +1,4 @@
-# #ActaDiurna - Covering the Flavian War
+# #ActaDiurna - Covering the Flavian War: What it is all about.
 
 
 
@@ -12,7 +12,9 @@ But what if it was all slightly different? Imagine for a moment how the Romans m
 
 In AD 69 the Roman empire was engulfed in civil war; by early summer, Galba, who had followed Nero on the throne, had been killed and replaced by Otho, who in turn had fought and lost against yet another usurper, Vitellius, who was accepted by the senate as the new emperor on April 19th; however, there was significant unrest in the army, and eventually on July 1st, elements of the army of Egypt proclaimed an old and experienced general emperor, initiating a second round of fighting for the purple which would be vastly more destructive than the first one. In the end, Vespasian defeated Vitellius soundly and on November 21st was finally declared the new emperor by the senate.
 
-The history of the Year of the Four Emperors, as AD 69 is widely known, is every bit as fascinating as violent as its greatest chronicler, Tacitus, claimed it to be. It was a time full of sound and fury, its history, as Tacitus put it, a work opimum casibus, atrox proeliis, discors seditionibus, ipsa etiam pace saevum (rich in disasters, terrible with battles, torn by civil struggles, horrible even in peace). The purpose of "#ActaDiurna - Covering the Flavian War" is to provide daily updates on this war that shook the whole empire and to cover the period from the raising of Vespasian's banner in Alexandria in July to his acceptance by the senate at the end of November.
+The history of the Year of the Four Emperors, as AD 69 is widely known, is every bit as fascinating as violent as its greatest chronicler, Tacitus, claimed it to be. It was a time full of sound and fury, its history, as Tacitus put it, a work opimum casibus, atrox proeliis, discors seditionibus, ipsa etiam pace saevum (rich in disasters, terrible with battles, torn by civil struggles, horrible even in peace). 
+
+The purpose of "#ActaDiurna - Covering the Flavian War" is to provide daily updates on this war that shook the whole empire and to cover the period from the raising of Vespasian's banner in Alexandria in July to his acceptance by the senate at the end of November. These daily updates will be accompanied by small commentaries on this blog about once a week highlighting the sources used for the tweets and other things that might be of interest.
 
 As far as the sources for the information given, much is invariably based on Tacitus, though a lot of it will obviously be conjectural, trying to capture both the mood at Rome and how armies, key individuals and information travelled throughout the empire. It also makes use of research into ways of travel inside the Roman empire, research which has led to the establishment of several project trying to estimate the time required for moving men and material. Again, much of that work is to a certain point conjectural, but it at least gives the observer a general idea about the complexity involved.
 
