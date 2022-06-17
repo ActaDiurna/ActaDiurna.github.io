@@ -18,7 +18,7 @@ github_username: "ActaDiurna"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: jekyll-theme-time-machine
+theme: "minima"
 
 rss: rss
 
