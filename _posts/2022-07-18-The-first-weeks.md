@@ -32,7 +32,7 @@ A word about artillery. It is still common to think of the Roman legion as a gro
 
 Apart from the graphics, the newsdesk also loves maps - who doesn't. Therefore I came up with this one:
 
-![](https://raw.githubusercontent.com/ActaDiurna.github.io/_posts/usurpation_1.png)
+![](https://raw.githubusercontent.com/ActaDiurna.github.io/assets/img/usurpation_1.png)
 
 The map will be updated regularly, but it comes with a number of caveats. It shows the provinces as accurately as possible as they were in AD 69; note for example that at that date the establishment of the provinces of Germania inferior and Germania superior lay still in the future. For each province the capital is given, provided its location is known, and other cities will appear on the map once they become important for the course of events. The map also shows the location of the legions and classes, though the legions are only located in their respective provinces; the symbols do not represent the actual location of the garrison. What the map does not show is the location of auxiliary units. As noted above that poses a major problem, and instead of wildly guessing about numbers and location I decided to simply leave them out. Again, from a military point of view that is, well, unfortunate, but Tacitus would have agreed.
 
